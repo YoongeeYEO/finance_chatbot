@@ -41,11 +41,17 @@ After completing the installation and API key setup:
 
 ## Project Structure
 ai-stock-analysis-chatbot/
+
 ├── data_fetching.py       # Functions to retrieve stock data and news
+
 ├── report_generation.py   # Functions to generate analysis reports
+
 ├── chat_interface.py      # Gradio chat interface definition
+
 ├── main.py                # Main script to run the chatbot
+
 ├── requirements.txt       # List of required Python packages
+
 └── README.md              # Project overview and usage instructions
 
 
