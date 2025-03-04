@@ -1,6 +1,6 @@
 # AI Stock Analysis Chatbot
 
-The AI Stock Analysis Chatbot is an interactive tool designed to provide comprehensive stock analysis reports. By inputting a stock symbol and its corresponding name, users can receive detailed insights, including market trends, financial metrics, technical analysis, and recent news. This chatbot leverages advanced AI models to assist investors in making informed decisions.&#8203;:contentReference[oaicite:0]{index=0}
+The AI Stock Analysis Chatbot is an interactive tool designed to provide comprehensive stock analysis reports. By inputting a stock symbol and its corresponding name, users can receive detailed insights, including market trends, financial metrics, technical analysis, and recent news. This chatbot leverages advanced AI models to assist investors in making informed decisions.
 
 ## Features
 
