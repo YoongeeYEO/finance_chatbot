@@ -4,10 +4,10 @@ The AI Stock Analysis Chatbot is an interactive tool designed to provide compreh
 
 ## Features
 
-- **Real-time Stock Data Retrieval**: :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
-- **Latest News Aggregation**: :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-- **Comprehensive Analysis Report**: :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-- **User-friendly Chat Interface**: :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+- **Real-time Stock Data Retrieval**
+- **Latest News Aggregation**
+- **Comprehensive Analysis Report**
+- **User-friendly Chat Interface**
 
 ## Installation
 
